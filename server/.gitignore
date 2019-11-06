@@ -1,0 +1,17 @@
+
+# Python
+__pycache__
+venv
+*.pyc
+.cache
+.mypy_cache\
+.env
+
+# macOs
+.DS_Store
+
+# database
+postgres-data/*
+
+# cache
+redis-data/*
